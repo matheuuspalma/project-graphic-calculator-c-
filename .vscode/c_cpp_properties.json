@@ -1,0 +1,18 @@
+{
+    "configurations": [
+      {
+        "name": "Linux",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "/usr/include/**"  // Inclui diretórios padrões do sistema
+        ],
+        "defines": [],
+        "compilerPath": "/usr/bin/gcc",  // Caminho do compilador (ajuste conforme necessário)
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "linux-gcc-x64"
+      }
+    ],
+    "version": 4
+  }
+  
